@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Primeiro commit do site da J.S. Razor Blade Barbearia"
-git branch -M main
-git remote add origin <URL_DO_SEU_REPOSITORIO>
-git push -u origin main
